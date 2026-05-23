@@ -14,6 +14,9 @@ function reversePrint(str) {
 
 	console.log(word);
 }
+reversePrint('hello world');
+reversePrint('hello');
+
 
 // 2)
 // a) String data type is a sequence of characters enclosed in single quotes (' '), double quotes (" "), or backticks (` `). 
@@ -56,8 +59,6 @@ function grading(score) {
 }	
 
 grading(49)
-reversePrint('hello world');
-reversePrint('hello');
-reversePrint('');
+
 
 
